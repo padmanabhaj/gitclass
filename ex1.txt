@@ -1,2 +1,6 @@
 Hi welcome to GitClass
+
+A
+B
+A
 come to hospital
